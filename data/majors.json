@@ -1,0 +1,1456 @@
+[
+  {
+    "id": "data_science",
+    "name": "Data Science",
+    "name_pt": "Ciência de Dados",
+    "school": "NOVA IMS",
+    "description": "Study of data analysis, machine learning, statistics, and computational methods to extract insights from large datasets. Prepares students for careers in AI, analytics, and data-driven decision making.",
+    "keywords": [
+      "data",
+      "statistics",
+      "programming",
+      "machine learning",
+      "AI",
+      "python",
+      "analytics",
+      "algorithms",
+      "big data"
+    ],
+    "requirements": {
+      "Math": 17,
+      "Portuguese": 12,
+      "English": 14
+    },
+    "career_paths": [
+      "Data Scientist",
+      "Machine Learning Engineer",
+      "Data Analyst",
+      "AI Researcher",
+      "Business Intelligence Analyst"
+    ],
+    "avg_salary": "€30k-55k",
+    "universities": [
+      "NOVA IMS"
+    ],
+    "duration_years": 3,
+    "language": "English"
+  },
+  {
+    "id": "computer_science",
+    "name": "Computer Science and Engineering",
+    "name_pt": "Engenharia Informática",
+    "school": "NOVA FCT",
+    "description": "Comprehensive study of algorithms, software development, systems architecture, databases, and computational theory. Combines theoretical foundations with practical programming skills.",
+    "keywords": [
+      "programming",
+      "software",
+      "algorithms",
+      "coding",
+      "technology",
+      "systems",
+      "databases",
+      "web development",
+      "computers"
+    ],
+    "requirements": {
+      "Math": 16,
+      "Physics": 14,
+      "Portuguese": 12
+    },
+    "career_paths": [
+      "Software Engineer",
+      "Full-Stack Developer",
+      "Systems Architect",
+      "DevOps Engineer",
+      "Tech Consultant"
+    ],
+    "avg_salary": "€28k-50k",
+    "universities": [
+      "NOVA FCT",
+      "IST",
+      "UMinho"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "information_management",
+    "name": "Information Management",
+    "name_pt": "Gestão de Informação",
+    "school": "NOVA IMS",
+    "description": "Focus on managing information systems, databases, business intelligence, and organizational data strategies. Bridges technology and business management.",
+    "keywords": [
+      "information",
+      "management",
+      "business",
+      "systems",
+      "databases",
+      "organization",
+      "digital",
+      "technology"
+    ],
+    "requirements": {
+      "Math": 15,
+      "Portuguese": 13,
+      "English": 13
+    },
+    "career_paths": [
+      "Information Manager",
+      "Business Analyst",
+      "IT Consultant",
+      "Project Manager",
+      "Digital Transformation Specialist"
+    ],
+    "avg_salary": "€25k-45k",
+    "universities": [
+      "NOVA IMS"
+    ],
+    "duration_years": 3,
+    "language": "English"
+  },
+  {
+    "id": "management",
+    "name": "Management",
+    "name_pt": "Gestão",
+    "school": "NOVA SBE",
+    "description": "Study of business administration, strategy, finance, marketing, and organizational leadership. Prepares students for management roles across industries.",
+    "keywords": [
+      "business",
+      "management",
+      "leadership",
+      "strategy",
+      "finance",
+      "marketing",
+      "entrepreneurship",
+      "companies"
+    ],
+    "requirements": {
+      "Math": 15,
+      "Portuguese": 13,
+      "English": 14
+    },
+    "career_paths": [
+      "Business Manager",
+      "Consultant",
+      "Entrepreneur",
+      "Financial Analyst",
+      "Marketing Manager"
+    ],
+    "avg_salary": "€25k-50k",
+    "universities": [
+      "NOVA SBE",
+      "Católica",
+      "ISCTE"
+    ],
+    "duration_years": 3,
+    "language": "English/Portuguese"
+  },
+  {
+    "id": "economics",
+    "name": "Economics",
+    "name_pt": "Economia",
+    "school": "NOVA SBE",
+    "description": "Analysis of economic systems, markets, policy, and quantitative methods. Combines theoretical economics with data analysis and applied research.",
+    "keywords": [
+      "economics",
+      "markets",
+      "policy",
+      "analysis",
+      "finance",
+      "statistics",
+      "research",
+      "macro",
+      "micro"
+    ],
+    "requirements": {
+      "Math": 16,
+      "Portuguese": 13,
+      "English": 14
+    },
+    "career_paths": [
+      "Economist",
+      "Policy Analyst",
+      "Financial Consultant",
+      "Researcher",
+      "Investment Analyst"
+    ],
+    "avg_salary": "€27k-48k",
+    "universities": [
+      "NOVA SBE",
+      "ISEG",
+      "FEP"
+    ],
+    "duration_years": 3,
+    "language": "English"
+  },
+  {
+    "id": "biomedical_engineering",
+    "name": "Biomedical Engineering",
+    "name_pt": "Engenharia Biomédica",
+    "school": "NOVA FCT",
+    "description": "Integration of engineering principles with medical and biological sciences to design healthcare solutions, medical devices, and diagnostic systems.",
+    "keywords": [
+      "biomedical",
+      "medical",
+      "engineering",
+      "health",
+      "biology",
+      "technology",
+      "devices",
+      "innovation"
+    ],
+    "requirements": {
+      "Math": 16,
+      "Physics": 15,
+      "Biology": 15,
+      "Portuguese": 12
+    },
+    "career_paths": [
+      "Biomedical Engineer",
+      "Medical Device Designer",
+      "Clinical Engineer",
+      "Researcher",
+      "Healthcare Technology Specialist"
+    ],
+    "avg_salary": "€26k-45k",
+    "universities": [
+      "NOVA FCT",
+      "IST",
+      "UMinho"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "mechanical_engineering",
+    "name": "Mechanical Engineering",
+    "name_pt": "Engenharia Mecânica",
+    "school": "NOVA FCT",
+    "description": "Design, analysis, and manufacturing of mechanical systems including engines, machines, robotics, and energy systems.",
+    "keywords": [
+      "mechanical",
+      "engineering",
+      "machines",
+      "design",
+      "manufacturing",
+      "robotics",
+      "energy",
+      "systems"
+    ],
+    "requirements": {
+      "Math": 16,
+      "Physics": 16,
+      "Portuguese": 12
+    },
+    "career_paths": [
+      "Mechanical Engineer",
+      "Design Engineer",
+      "Automation Engineer",
+      "Aerospace Engineer",
+      "Energy Consultant"
+    ],
+    "avg_salary": "€26k-46k",
+    "universities": [
+      "NOVA FCT",
+      "IST",
+      "FEUP"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese/English"
+  },
+  {
+    "id": "civil_engineering",
+    "name": "Civil Engineering",
+    "name_pt": "Engenharia Civil",
+    "school": "NOVA FCT",
+    "description": "Planning, design, and construction of infrastructure including buildings, bridges, roads, and water systems.",
+    "keywords": [
+      "civil",
+      "construction",
+      "buildings",
+      "infrastructure",
+      "design",
+      "planning",
+      "structures",
+      "engineering"
+    ],
+    "requirements": {
+      "Math": 16,
+      "Physics": 15,
+      "Portuguese": 12
+    },
+    "career_paths": [
+      "Civil Engineer",
+      "Structural Engineer",
+      "Construction Manager",
+      "Urban Planner",
+      "Project Engineer"
+    ],
+    "avg_salary": "€24k-42k",
+    "universities": [
+      "NOVA FCT",
+      "IST",
+      "FEUP"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "electrical_computer_engineering",
+    "name": "Electrical and Computer Engineering",
+    "name_pt": "Engenharia Eletrotécnica e de Computadores",
+    "school": "NOVA FCT",
+    "description": "Integration of electrical systems, electronics, telecommunications, and computer systems. Covers power systems, circuits, embedded systems, and control.",
+    "keywords": [
+      "electrical",
+      "electronics",
+      "computers",
+      "circuits",
+      "telecommunications",
+      "automation",
+      "control",
+      "embedded"
+    ],
+    "requirements": {
+      "Math": 17,
+      "Physics": 16,
+      "Portuguese": 12
+    },
+    "career_paths": [
+      "Electrical Engineer",
+      "Embedded Systems Engineer",
+      "Telecommunications Engineer",
+      "Control Systems Engineer",
+      "Robotics Engineer"
+    ],
+    "avg_salary": "€27k-48k",
+    "universities": [
+      "NOVA FCT",
+      "IST",
+      "FEUP"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "environmental_engineering",
+    "name": "Environmental Engineering",
+    "name_pt": "Engenharia do Ambiente",
+    "school": "NOVA FCT",
+    "description": "Application of engineering principles to protect and improve the environment. Focus on water treatment, air quality, waste management, and sustainability.",
+    "keywords": [
+      "environment",
+      "sustainability",
+      "ecology",
+      "green",
+      "pollution",
+      "conservation",
+      "water",
+      "renewable"
+    ],
+    "requirements": {
+      "Math": 15,
+      "Physics": 14,
+      "Biology": 14,
+      "Portuguese": 12
+    },
+    "career_paths": [
+      "Environmental Engineer",
+      "Sustainability Consultant",
+      "Water Treatment Specialist",
+      "Environmental Analyst",
+      "Green Technology Engineer"
+    ],
+    "avg_salary": "€23k-40k",
+    "universities": [
+      "NOVA FCT",
+      "IST",
+      "UA"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "biochemistry",
+    "name": "Biochemistry",
+    "name_pt": "Bioquímica",
+    "school": "NOVA FCT",
+    "description": "Study of chemical processes within living organisms, including metabolism, molecular biology, genetics, and protein structure.",
+    "keywords": [
+      "biochemistry",
+      "biology",
+      "chemistry",
+      "molecules",
+      "proteins",
+      "genetics",
+      "lab",
+      "research",
+      "science"
+    ],
+    "requirements": {
+      "Math": 14,
+      "Chemistry": 16,
+      "Biology": 16,
+      "Portuguese": 12
+    },
+    "career_paths": [
+      "Biochemist",
+      "Laboratory Researcher",
+      "Pharmaceutical Scientist",
+      "Biotechnology Specialist",
+      "Clinical Lab Technician"
+    ],
+    "avg_salary": "€22k-38k",
+    "universities": [
+      "NOVA FCT",
+      "FCUL",
+      "UC"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "law",
+    "name": "Law",
+    "name_pt": "Direito",
+    "school": "NOVA Law School",
+    "description": "Comprehensive study of legal systems, jurisprudence, civil and criminal law, constitutional law, and legal practice.",
+    "keywords": [
+      "law",
+      "legal",
+      "justice",
+      "rights",
+      "courts",
+      "lawyer",
+      "legislation",
+      "jurisprudence"
+    ],
+    "requirements": {
+      "Portuguese": 15,
+      "History": 14,
+      "English": 13
+    },
+    "career_paths": [
+      "Lawyer",
+      "Judge",
+      "Legal Consultant",
+      "Corporate Counsel",
+      "Public Prosecutor"
+    ],
+    "avg_salary": "€24k-50k",
+    "universities": [
+      "NOVA Law",
+      "Católica",
+      "UL"
+    ],
+    "duration_years": 4,
+    "language": "Portuguese"
+  },
+  {
+    "id": "communication_sciences",
+    "name": "Communication Sciences",
+    "name_pt": "Ciências da Comunicação",
+    "school": "NOVA FCSH",
+    "description": "Study of media, journalism, public relations, digital communication, and cultural studies. Prepares students for careers in media and communication industries.",
+    "keywords": [
+      "communication",
+      "media",
+      "journalism",
+      "public relations",
+      "digital",
+      "social media",
+      "writing",
+      "broadcasting"
+    ],
+    "requirements": {
+      "Portuguese": 14,
+      "English": 13,
+      "History": 12
+    },
+    "career_paths": [
+      "Journalist",
+      "PR Specialist",
+      "Social Media Manager",
+      "Content Creator",
+      "Communications Consultant"
+    ],
+    "avg_salary": "€20k-35k",
+    "universities": [
+      "NOVA FCSH",
+      "ISCSP",
+      "UBI"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "international_relations",
+    "name": "Political Science and International Relations",
+    "name_pt": "Ciência Política e Relações Internacionais",
+    "school": "NOVA FCSH",
+    "description": "Analysis of political systems, international affairs, diplomacy, and global governance. Combines political theory with contemporary global issues.",
+    "keywords": [
+      "politics",
+      "international",
+      "relations",
+      "diplomacy",
+      "government",
+      "policy",
+      "global",
+      "affairs"
+    ],
+    "requirements": {
+      "Portuguese": 14,
+      "History": 14,
+      "English": 15
+    },
+    "career_paths": [
+      "Diplomat",
+      "Policy Analyst",
+      "International Relations Specialist",
+      "NGO Worker",
+      "Political Consultant"
+    ],
+    "avg_salary": "€22k-40k",
+    "universities": [
+      "NOVA FCSH",
+      "ISCSP",
+      "UL"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "psychology",
+    "name": "Psychology",
+    "name_pt": "Psicologia",
+    "school": "NOVA FCSH",
+    "description": "Scientific study of human behavior, cognition, emotion, and mental processes. Includes clinical, social, and organizational psychology.",
+    "keywords": [
+      "psychology",
+      "mental health",
+      "behavior",
+      "counseling",
+      "therapy",
+      "mind",
+      "human",
+      "clinical"
+    ],
+    "requirements": {
+      "Portuguese": 14,
+      "Biology": 13,
+      "Math": 12
+    },
+    "career_paths": [
+      "Psychologist",
+      "Therapist",
+      "HR Specialist",
+      "Counselor",
+      "Researcher"
+    ],
+    "avg_salary": "€20k-38k",
+    "universities": [
+      "UL",
+      "ISPA",
+      "UMinho"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "medicine",
+    "name": "Medicine",
+    "name_pt": "Medicina",
+    "school": "NOVA Medical School",
+    "description": "Comprehensive medical education covering anatomy, physiology, pathology, clinical practice, and patient care. Integrated master's program leading to medical licensure.",
+    "keywords": [
+      "medicine",
+      "medical",
+      "doctor",
+      "health",
+      "clinical",
+      "patient",
+      "hospital",
+      "diagnosis",
+      "treatment"
+    ],
+    "requirements": {
+      "Math": 17,
+      "Biology": 18,
+      "Chemistry": 17,
+      "Portuguese": 14
+    },
+    "career_paths": [
+      "Medical Doctor",
+      "Surgeon",
+      "Specialist Physician",
+      "Researcher",
+      "Public Health Officer"
+    ],
+    "avg_salary": "€35k-70k",
+    "universities": [
+      "NOVA Medical School",
+      "FMUL",
+      "FMUC"
+    ],
+    "duration_years": 6,
+    "language": "Portuguese"
+  },
+  {
+    "id": "nutrition_sciences",
+    "name": "Nutrition Sciences",
+    "name_pt": "Ciências da Nutrição",
+    "school": "NOVA Medical School",
+    "description": "Study of food science, human nutrition, dietetics, and health promotion. Prepares nutritionists and dietitians for clinical and community settings.",
+    "keywords": [
+      "nutrition",
+      "food",
+      "health",
+      "diet",
+      "wellness",
+      "dietetics",
+      "clinical",
+      "healthy eating"
+    ],
+    "requirements": {
+      "Biology": 15,
+      "Chemistry": 14,
+      "Math": 13,
+      "Portuguese": 12
+    },
+    "career_paths": [
+      "Nutritionist",
+      "Dietitian",
+      "Food Scientist",
+      "Health Coach",
+      "Clinical Nutritionist"
+    ],
+    "avg_salary": "€20k-35k",
+    "universities": [
+      "NOVA Medical School",
+      "FMH",
+      "FCNAUP"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "mathematics",
+    "name": "Mathematics",
+    "name_pt": "Matemática",
+    "school": "NOVA FCT",
+    "description": "Pure and applied mathematics including algebra, calculus, statistics, mathematical modeling, and computational mathematics.",
+    "keywords": [
+      "mathematics",
+      "math",
+      "calculus",
+      "algebra",
+      "statistics",
+      "analysis",
+      "logic",
+      "problem solving"
+    ],
+    "requirements": {
+      "Math": 18,
+      "Physics": 14,
+      "Portuguese": 12
+    },
+    "career_paths": [
+      "Mathematician",
+      "Data Analyst",
+      "Actuary",
+      "Quantitative Analyst",
+      "Researcher",
+      "Teacher"
+    ],
+    "avg_salary": "€24k-45k",
+    "universities": [
+      "NOVA FCT",
+      "FCUL",
+      "FCTUC"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "industrial_management",
+    "name": "Industrial Engineering and Management",
+    "name_pt": "Engenharia e Gestão Industrial",
+    "school": "NOVA FCT",
+    "description": "Integration of engineering and business management for optimizing production systems, supply chains, and organizational efficiency.",
+    "keywords": [
+      "industrial",
+      "management",
+      "production",
+      "logistics",
+      "optimization",
+      "business",
+      "engineering",
+      "operations"
+    ],
+    "requirements": {
+      "Math": 16,
+      "Physics": 14,
+      "Portuguese": 12
+    },
+    "career_paths": [
+      "Industrial Engineer",
+      "Operations Manager",
+      "Supply Chain Manager",
+      "Production Planner",
+      "Management Consultant"
+    ],
+    "avg_salary": "€25k-44k",
+    "universities": [
+      "NOVA FCT",
+      "IST",
+      "UMinho"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "materials_engineering",
+    "name": "Materials Engineering",
+    "name_pt": "Engenharia de Materiais",
+    "school": "NOVA FCT",
+    "description": "Study of properties, processing, and applications of materials including metals, polymers, ceramics, and composites.",
+    "keywords": [
+      "materials",
+      "engineering",
+      "manufacturing",
+      "nanotechnology",
+      "metals",
+      "polymers",
+      "innovation"
+    ],
+    "requirements": {
+      "Math": 16,
+      "Physics": 15,
+      "Chemistry": 15,
+      "Portuguese": 12
+    },
+    "career_paths": [
+      "Materials Engineer",
+      "R&D Engineer",
+      "Quality Control Specialist",
+      "Manufacturing Engineer",
+      "Nanotechnology Researcher"
+    ],
+    "avg_salary": "€24k-42k",
+    "universities": [
+      "NOVA FCT",
+      "IST",
+      "UA"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "physics_engineering",
+    "name": "Physics Engineering",
+    "name_pt": "Engenharia Física",
+    "school": "NOVA FCT",
+    "description": "Combines engineering principles with advanced physics to solve complex technical problems. Focuses on areas like optics, lasers, nanotechnology, and advanced instrumentation.",
+    "keywords": [
+      "physics",
+      "engineering",
+      "optics",
+      "lasers",
+      "nanotechnology",
+      "instrumentation",
+      "science",
+      "technology"
+    ],
+    "requirements": {
+      "Math": 17,
+      "Physics": 17
+    },
+    "career_paths": [
+      "R&D Engineer",
+      "Optical Systems Designer",
+      "Laser Specialist",
+      "Academic Researcher",
+      "Tech Systems Developer"
+    ],
+    "avg_salary": "25k-45k",
+    "universities": [
+      "NOVA FCT"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "cell_molecular_biology",
+    "name": "Cell and Molecular Biology",
+    "name_pt": "Biologia Celular e Molecular",
+    "school": "NOVA FCT",
+    "description": "Advanced study of biological systems at the cellular and molecular levels. Focuses on genetics, biotechnology, biomedicine, and modern research techniques.",
+    "keywords": [
+      "biology",
+      "cell",
+      "molecular",
+      "genetics",
+      "biotechnology",
+      "biomedicine",
+      "research",
+      "lab",
+      "science"
+    ],
+    "requirements": {
+      "Biology": 17,
+      "Chemistry": 16,
+      "Math": 14
+    },
+    "career_paths": [
+      "Biotechnologist",
+      "Molecular Biologist",
+      "Genetics Specialist",
+      "Laboratory Researcher",
+      "Pharmaceutical Scientist"
+    ],
+    "avg_salary": "22k-40k",
+    "universities": [
+      "NOVA FCT"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "applied_math_risk",
+    "name": "Applied Mathematics to Risk Management",
+    "name_pt": "Matemática Aplicada à Gestão do Risco",
+    "school": "NOVA FCT",
+    "description": "Focuses on the application of mathematical and statistical models to analyze and manage financial, operational, and structural risks.",
+    "keywords": [
+      "mathematics",
+      "statistics",
+      "risk management",
+      "finance",
+      "modeling",
+      "probability",
+      "actuarial science"
+    ],
+    "requirements": {
+      "Math": 18,
+      "Portuguese": 12
+    },
+    "career_paths": [
+      "Risk Analyst",
+      "Financial Consultant",
+      "Actuary",
+      "Data Scientist",
+      "Quantitative Analyst"
+    ],
+    "avg_salary": "28k-50k",
+    "universities": [
+      "NOVA FCT"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "applied_chemistry",
+    "name": "Applied Chemistry",
+    "name_pt": "Química Aplicada",
+    "school": "NOVA FCT",
+    "description": "Practical application of chemical science in industrial and laboratory settings. Covers analytical, organic, inorganic, and materials chemistry.",
+    "keywords": [
+      "chemistry",
+      "applied chemistry",
+      "laboratory",
+      "industry",
+      "analysis",
+      "research",
+      "materials"
+    ],
+    "requirements": {
+      "Chemistry": 15,
+      "Physics": 14,
+      "Math": 14
+    },
+    "career_paths": [
+      "Analytical Chemist",
+      "Industrial Chemist",
+      "Quality Control Specialist",
+      "R&D Researcher",
+      "Lab Technician"
+    ],
+    "avg_salary": "22k-38k",
+    "universities": [
+      "NOVA FCT"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "chemical_biological_engineering",
+    "name": "Chemical and Biological Engineering",
+    "name_pt": "Engenharia Química e Biológica",
+    "school": "NOVA FCT",
+    "description": "Integration of chemistry, biology, and engineering for the large-scale production of biopharmaceuticals, biofuels, and chemical products.",
+    "keywords": [
+      "chemistry",
+      "biology",
+      "engineering",
+      "chemical engineering",
+      "bioprocess",
+      "industry",
+      "pharmaceuticals"
+    ],
+    "requirements": {
+      "Chemistry": 15,
+      "Math": 14,
+      "Biology": 14
+    },
+    "career_paths": [
+      "Process Engineer",
+      "Biochemist",
+      "Production Manager",
+      "Environmental Consultant",
+      "Chemical Researcher"
+    ],
+    "avg_salary": "24k-42k",
+    "universities": [
+      "NOVA FCT"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "geological_engineering",
+    "name": "Geological Engineering",
+    "name_pt": "Engenharia Geológica",
+    "school": "NOVA FCT",
+    "description": "Focuses on the engineering properties of earth materials and their role in civil engineering projects, resource extraction, and environmental protection.",
+    "keywords": [
+      "geology",
+      "engineering",
+      "earth",
+      "mining",
+      "geotechnical",
+      "construction",
+      "resources",
+      "environment"
+    ],
+    "requirements": {
+      "Physics": 13,
+      "Biology": 13,
+      "Math": 13
+    },
+    "career_paths": [
+      "Geological Engineer",
+      "Geotechnical Consultant",
+      "Mining Specialist",
+      "Environmental Impact Auditor",
+      "Natural Resource Manager"
+    ],
+    "avg_salary": "22k-38k",
+    "universities": [
+      "NOVA FCT"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "nanotechnology_engineering",
+    "name": "Micro and Nanotechnology Engineering",
+    "name_pt": "Engenharia de Micro e Nanotecnologias",
+    "school": "NOVA FCT",
+    "description": "Study of engineering at the microscopic and molecular scales. Focuses on semiconductors, sensors, advanced materials, and nanotechnology applications.",
+    "keywords": [
+      "nanotechnology",
+      "microelectronics",
+      "physics",
+      "materials",
+      "semiconductors",
+      "sensors",
+      "innovation",
+      "engineering"
+    ],
+    "requirements": {
+      "Math": 15,
+      "Physics": 15,
+      "Chemistry": 14
+    },
+    "career_paths": [
+      "Nanotechnologist",
+      "Semiconductor Engineer",
+      "Microfabrication Specialist",
+      "Materials Researcher",
+      "Product Developer"
+    ],
+    "avg_salary": "26k-48k",
+    "universities": [
+      "NOVA FCT"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "agro_industrial_technology",
+    "name": "Agro-Industrial Technology",
+    "name_pt": "Tecnologia Agro-Industrial",
+    "school": "NOVA FCT",
+    "description": "Combines science and technology to optimize agricultural production and food processing industries. Focuses on sustainability and food safety.",
+    "keywords": [
+      "agriculture",
+      "food science",
+      "technology",
+      "sustainability",
+      "industry",
+      "production",
+      "biology"
+    ],
+    "requirements": {
+      "Biology": 14,
+      "Chemistry": 14,
+      "Math": 13
+    },
+    "career_paths": [
+      "Food Technologist",
+      "Agribusiness Manager",
+      "Quality Control Inspector",
+      "Production Supervisor",
+      "Agricultural Consultant"
+    ],
+    "avg_salary": "20k-35k",
+    "universities": [
+      "NOVA FCT"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "information_systems",
+    "name": "Information Systems and Technologies",
+    "name_pt": "Sistemas e Tecnologias de Informação",
+    "school": "NOVA IMS",
+    "description": "Focuses on the design, implementation, and management of information systems that support business operations and decision-making.",
+    "keywords": [
+      "information systems",
+      "technology",
+      "programming",
+      "databases",
+      "business intelligence",
+      "networks",
+      "applications"
+    ],
+    "requirements": {
+      "Math": 16,
+      "English": 14,
+      "Portuguese": 12
+    },
+    "career_paths": [
+      "Systems Analyst",
+      "IT Manager",
+      "Full-Stack Developer",
+      "Information Systems Consultant",
+      "Database Administrator"
+    ],
+    "avg_salary": "26k-48k",
+    "universities": [
+      "NOVA IMS"
+    ],
+    "duration_years": 3,
+    "language": "English"
+  },
+  {
+    "id": "anthropology",
+    "name": "Anthropology",
+    "name_pt": "Antropologia",
+    "school": "NOVA FCSH",
+    "description": "Study of human societies, cultures, and biological diversity across time and space. Explores human origins, evolution, and social structures.",
+    "keywords": [
+      "human",
+      "society",
+      "culture",
+      "evolution",
+      "social structures",
+      "archaeology",
+      "ethnography"
+    ],
+    "requirements": {
+      "Portuguese": 14,
+      "History": 13
+    },
+    "career_paths": [
+      "Anthropologist",
+      "Cultural Heritage Manager",
+      "Social Researcher",
+      "NGO Worker",
+      "Museum Curator"
+    ],
+    "avg_salary": "18k-32k",
+    "universities": [
+      "NOVA FCSH"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "archaeology",
+    "name": "Archaeology",
+    "name_pt": "Arqueologia",
+    "school": "NOVA FCSH",
+    "description": "Scientific study of past human cultures through the recovery and analysis of material remains and environmental data.",
+    "keywords": [
+      "history",
+      "archaeology",
+      "culture",
+      "excavation",
+      "artifacts",
+      "preservation",
+      "heritage"
+    ],
+    "requirements": {
+      "History": 14,
+      "Portuguese": 13
+    },
+    "career_paths": [
+      "Archaeologist",
+      "Heritage Consultant",
+      "Museum Professional",
+      "Researcher",
+      "Exhibition Curator"
+    ],
+    "avg_salary": "18k-30k",
+    "universities": [
+      "NOVA FCSH"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "art_history",
+    "name": "Art History",
+    "name_pt": "História da Arte",
+    "school": "NOVA FCSH",
+    "description": "Academic study of art and visual culture in its historical context. Analyzes styles, movements, and the social role of art.",
+    "keywords": [
+      "art",
+      "history",
+      "culture",
+      "visual arts",
+      "criticism",
+      "aesthetics",
+      "museums"
+    ],
+    "requirements": {
+      "History": 15,
+      "Portuguese": 14
+    },
+    "career_paths": [
+      "Art Historian",
+      "Curator",
+      "Art Consultant",
+      "Archivist",
+      "Gallerist"
+    ],
+    "avg_salary": "18k-35k",
+    "universities": [
+      "NOVA FCSH"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "geography_regional_planning",
+    "name": "Geography and Regional Planning",
+    "name_pt": "Geografia e Planeamento Regional",
+    "school": "NOVA FCSH",
+    "description": "Study of spatial relationships, environmental systems, and the planning of territories and urban areas.",
+    "keywords": [
+      "geography",
+      "planning",
+      "urban",
+      "territory",
+      "environment",
+      "mapping",
+      "GIS",
+      "sustainability"
+    ],
+    "requirements": {
+      "Geography": 14,
+      "Portuguese": 13
+    },
+    "career_paths": [
+      "Urban Planner",
+      "GIS Specialist",
+      "Geographer",
+      "Environmental Analyst",
+      "Regional Developer"
+    ],
+    "avg_salary": "20k-38k",
+    "universities": [
+      "NOVA FCSH"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "history",
+    "name": "History",
+    "name_pt": "História",
+    "school": "NOVA FCSH",
+    "description": "Critical study of the past through the analysis of primary and secondary sources. Explores social, political, and cultural change over time.",
+    "keywords": [
+      "history",
+      "research",
+      "past",
+      "sources",
+      "politics",
+      "culture",
+      "society"
+    ],
+    "requirements": {
+      "History": 16,
+      "Portuguese": 14
+    },
+    "career_paths": [
+      "Historian",
+      "Archivist",
+      "Researcher",
+      "Journalist",
+      "Political Advisor"
+    ],
+    "avg_salary": "18k-35k",
+    "universities": [
+      "NOVA FCSH"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "language_sciences",
+    "name": "Language Sciences",
+    "name_pt": "Ciências da Linguagem",
+    "school": "NOVA FCSH",
+    "description": "Scientific study of language and linguistics, including phonetics, syntax, semantics, and language acquisition.",
+    "keywords": [
+      "linguistics",
+      "language",
+      "grammar",
+      "phonetics",
+      "semantics",
+      "communication",
+      "syntax"
+    ],
+    "requirements": {
+      "Portuguese": 15,
+      "English": 14
+    },
+    "career_paths": [
+      "Linguist",
+      "Language Analyst",
+      "Speech Therapist Assistant",
+      "Lexicographer",
+      "Communications Expert"
+    ],
+    "avg_salary": "20k-38k",
+    "universities": [
+      "NOVA FCSH"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "languages_literatures_cultures",
+    "name": "Languages, Literatures and Cultures",
+    "name_pt": "Línguas, Literaturas e Culturas",
+    "school": "NOVA FCSH",
+    "description": "Interdisciplinary study of multiple languages, literary traditions, and cultural contexts. Focuses on translation, criticism, and modern languages.",
+    "keywords": [
+      "languages",
+      "literature",
+      "culture",
+      "translation",
+      "modern languages",
+      "criticism",
+      "humanities"
+    ],
+    "requirements": {
+      "Portuguese": 15,
+      "English": 15
+    },
+    "career_paths": [
+      "Translator",
+      "Cultural Diplomat",
+      "Content Writer",
+      "Language Teacher",
+      "Literary Critic"
+    ],
+    "avg_salary": "18k-35k",
+    "universities": [
+      "NOVA FCSH"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese/English"
+  },
+  {
+    "id": "philosophy",
+    "name": "Philosophy",
+    "name_pt": "Filosofia",
+    "school": "NOVA FCSH",
+    "description": "Study of fundamental questions regarding existence, knowledge, ethics, logic, and the nature of reality.",
+    "keywords": [
+      "logic",
+      "ethics",
+      "philosophy",
+      "thinking",
+      "philosophy of mind",
+      "knowledge",
+      "epistemology",
+      "political philosophy"
+    ],
+    "requirements": {
+      "Philosophy": 16,
+      "Portuguese": 14
+    },
+    "career_paths": [
+      "Philosopher",
+      "Ethics Consultant",
+      "Political Analyst",
+      "Researcher",
+      "Journalist"
+    ],
+    "avg_salary": "18k-32k",
+    "universities": [
+      "NOVA FCSH"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "portuguese_studies",
+    "name": "Portuguese Studies",
+    "name_pt": "Estudos Portugueses",
+    "school": "NOVA FCSH",
+    "description": "Study of the Portuguese language, its history, literature, and culture across the Lusophone world.",
+    "keywords": [
+      "portuguese",
+      "literature",
+      "language",
+      "lusophone",
+      "culture",
+      "grammar",
+      "studies"
+    ],
+    "requirements": {
+      "Portuguese": 16,
+      "History": 13
+    },
+    "career_paths": [
+      "Portuguese Specialist",
+      "Writer",
+      "Editor",
+      "Language Consultant",
+      "Academic"
+    ],
+    "avg_salary": "18k-35k",
+    "universities": [
+      "NOVA FCSH"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "sociology",
+    "name": "Sociology",
+    "name_pt": "Sociologia",
+    "school": "NOVA FCSH",
+    "description": "Scientific study of social behavior, institutions, and structures within human society.",
+    "keywords": [
+      "society",
+      "sociology",
+      "institutions",
+      "behavior",
+      "social research",
+      "urban studies",
+      "demographics"
+    ],
+    "requirements": {
+      "Portuguese": 15,
+      "History": 14
+    },
+    "career_paths": [
+      "Sociologist",
+      "Social Policy Analyst",
+      "Researcher",
+      "HR Specialist",
+      "Pollster"
+    ],
+    "avg_salary": "18k-35k",
+    "universities": [
+      "NOVA FCSH"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  },
+  {
+    "id": "translation",
+    "name": "Translation",
+    "name_pt": "Tradução",
+    "school": "NOVA FCSH",
+    "description": "Study of linguistic and cultural mediation through the practice of written translation across various specialized domains.",
+    "keywords": [
+      "translation",
+      "languages",
+      "mediation",
+      "interpretation",
+      "writing",
+      "lexicology",
+      "localization"
+    ],
+    "requirements": {
+      "English": 16,
+      "Portuguese": 15
+    },
+    "career_paths": [
+      "Translator",
+      "Localizer",
+      "Subtitler",
+      "Terminologist",
+      "Project Manager in Translation"
+    ],
+    "avg_salary": "20k-40k",
+    "universities": [
+      "NOVA FCSH"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese/English"
+  },
+  {
+    "id": "music_sciences",
+    "name": "Music Sciences",
+    "name_pt": "Ciências Musicais",
+    "school": "NOVA FCSH",
+    "description": "Academic study of music history, theory, ethnomusicology, and the role of music in society.",
+    "keywords": [
+      "music",
+      "history",
+      "theory",
+      "ethnomusicology",
+      "culture",
+      "performance",
+      "composition studies"
+    ],
+    "requirements": {
+      "History": 13,
+      "Portuguese": 13
+    },
+    "career_paths": [
+      "Musicologist",
+      "Music Critic",
+      "Archivist",
+      "Cultural Manager",
+      "Researcher"
+    ],
+    "avg_salary": "18k-30k",
+    "universities": [
+      "NOVA FCSH"
+    ],
+    "duration_years": 3,
+    "language": "Portuguese"
+  }
+]

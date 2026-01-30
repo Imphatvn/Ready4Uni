@@ -1,0 +1,73 @@
+# ============================================================================
+# Ready4Uni - AI University Readiness Chatbot
+# Python Dependencies
+# ============================================================================
+
+# -------------------------
+# Core LLM & AI
+# -------------------------
+google-generativeai>=0.8.0,<1.0.0
+# Google Gemini API - Standard SDK (supports Gemini 2.5 Flash)
+
+langfuse>=2.0.0,<3.0.0
+# LLM observability platform for tracing, monitoring, and analytics
+
+# -------------------------
+# PDF Processing
+# -------------------------
+pdfplumber>=0.10.0,<1.0.0
+# Extract text from PDF files (transcripts)
+
+Pillow>=10.0.0,<11.0.0
+# Required by pdfplumber for image handling
+
+# -------------------------
+# Web Framework
+# -------------------------
+streamlit>=1.30.0,<2.0.0
+# Web UI framework for chatbot interface
+
+# -------------------------
+# Environment & Configuration
+# -------------------------
+python-dotenv>=1.0.0,<2.0.0
+# Load environment variables from .env file
+
+# -------------------------
+# Data Handling
+# -------------------------
+pydantic>=2.0.0,<3.0.0
+# Data validation and settings management
+
+# -------------------------
+# Utilities
+# -------------------------
+typing-extensions>=4.8.0
+# Backport of typing features for older Python versions
+
+# -------------------------
+# Development & Testing
+# -------------------------
+pytest>=7.4.0
+# Testing framework
+
+pytest-cov>=4.1.0
+# Coverage reporting
+
+pytest-mock>=3.12.0
+# Mocking utilities
+
+pytest-asyncio>=0.21.0
+# Async test support
+
+# -------------------------
+# Code Quality
+# -------------------------
+black>=23.0.0
+# Code formatting
+
+ruff>=0.1.0
+# Fast linting
+
+mypy>=1.7.0
+# Type checking

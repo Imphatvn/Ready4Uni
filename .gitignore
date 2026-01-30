@@ -1,0 +1,11 @@
+.env
+*.env
+__pycache__/
+*.pyc
+.pytest_cache/
+htmlcov/
+.coverage
+ready4uni/
+temp_uploads/
+.venv/
+.temp/
